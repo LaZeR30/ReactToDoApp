@@ -1,0 +1,16 @@
+Initialized a git repository.
+Success! Created bradcrash at C:\work\_React\bradcrash Inside directory u can run commands:
+  npm start - Starts the development server.
+  npm run build - Bundles the app into static files for production.
+  npm test - Starts the test runner.
+  npm run eject - Removes this tool and copies build dependencies, cones and scripts 
+      into the app directory. If you do this, you can�t go back!
+We suggest that you begin by typing:  npm start
+-------------------------------------------------------------------------------------
+how does Hot Reload Work ?!?!
+-------------------------------------------------------------------------------------
+1 - package.json is all our dependencies / scripts
+2 - index.html - <div id="root" is all - stick in BootStrap
+3 - 16:00 index.js is starting point for React - loads app.js
+4 - 16:35 - app.js - render - returns JSX  
+      - remember not class - it's className
